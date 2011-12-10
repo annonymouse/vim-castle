@@ -1,0 +1,3 @@
+[submodule "bundle/DoxygenToolkit"]
+	path = bundle/DoxygenToolkit
+	url = https://github.com/mrtazz/DoxygenToolkit.vim.git
