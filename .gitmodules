@@ -1,3 +1,6 @@
 [submodule "bundle/DoxygenToolkit"]
 	path = home/.vim/bundle/DoxygenToolkit
 	url = https://github.com/mrtazz/DoxygenToolkit.vim.git
+[submodule "home/.vim/bundle/RustHighlight"]
+	path = home/.vim/bundle/RustHighlight
+	url = https://github.com/wting/rust.vim.git
