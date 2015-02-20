@@ -4,3 +4,6 @@
 [submodule "home/.vim/bundle/RustHighlight"]
 	path = home/.vim/bundle/RustHighlight
 	url = https://github.com/wting/rust.vim.git
+[submodule "home/.vim/bundle/syntastic"]
+	path = home/.vim/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic
