@@ -2,4 +2,5 @@
 
 git submodule init
 git submodule update
-
+# Initialise plugins
+vim +PluginInstall +qall

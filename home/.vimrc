@@ -14,8 +14,8 @@ Plugin 'VundleVim/Vundle.vim'
 " " Keep Plugin commands between vundle#begin/end.
 " " plugin on GitHub repo
 " Plugin 'tpope/vim-fugitive'
-Plugin 'mrtazz/DoxygenToolkit'
-Plugin 'wting/rust'
+Plugin 'mrtazz/DoxygenToolkit.vim'
+Plugin 'rust-lang/rust.vim'
 Plugin 'scrooloose/syntastic'
 
 " " plugin from http://vim-scripts.org/vim/scripts.html
