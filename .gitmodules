@@ -1,12 +1,3 @@
-[submodule "bundle/DoxygenToolkit"]
-	path = home/.vim/bundle/DoxygenToolkit
-	url = https://github.com/mrtazz/DoxygenToolkit.vim.git
-[submodule "home/.vim/bundle/RustHighlight"]
-	path = home/.vim/bundle/RustHighlight
-	url = https://github.com/wting/rust.vim.git
-[submodule "home/.vim/bundle/syntastic"]
-	path = home/.vim/bundle/syntastic
-	url = https://github.com/scrooloose/syntastic
 [submodule "home/.vim/bundle/Vundle.vim"]
 	path = home/.vim/bundle/Vundle.vim
 	url = https://github.com/VundleVim/Vundle.vim
