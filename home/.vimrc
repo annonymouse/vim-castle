@@ -17,7 +17,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'mrtazz/DoxygenToolkit.vim'
 Plugin 'rust-lang/rust.vim'
 Plugin 'scrooloose/syntastic'
-
+Plugin 'Valloric/YouCompleteMe'
 " " plugin from http://vim-scripts.org/vim/scripts.html
 " Plugin 'L9'
 " " Git plugin not hosted on GitHub
@@ -59,6 +59,10 @@ set smartindent
 set shiftwidth=4
 set hlsearch
 set textwidth=80
+
+set ttyfast
+set mouse=a
+set ttymouse=xterm2
 
 if exists('+colorcolumn')
     set colorcolumn=80
